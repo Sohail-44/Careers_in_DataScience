@@ -41,3 +41,15 @@ Using Confidence Intervals and ML models to explore relationships between predic
 Sohail : Data Wrangling,cleaning, manipulating, and  Machine Learning and Report Writing
 Munya: Sf Visualizations, Interpretations and findings, Code, Presentation
 
+
+<img width="639" height="404" alt="Map_DataSciencePostings" src="https://github.com/user-attachments/assets/cb5b0c6f-9544-4e3c-8ddb-731ba804f9bc" />
+
+<img width="614" height="384" alt="salary_industries" src="https://github.com/user-attachments/assets/d27e5a44-bd3b-4b09-b9bb-e806ce83aa0e" />
+
+<img width="620" height="404" alt="predicted_mae" src="https://github.com/user-attachments/assets/4bbc6821-4653-48ec-9671-9fb7a76bce6e" />
+
+
+
+
+
+
